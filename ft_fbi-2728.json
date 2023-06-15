@@ -1,0 +1,226 @@
+{
+"code": 200,
+"message": "Success",
+"games": [
+{
+"gid": "0021800497",
+"home": {
+"tid": 1610612752,
+"re": "9-24",
+"ta": "NYK",
+"tn": "Knicks",
+"tc": "New York",
+"s": "",
+"color": {
+"p": "#f58426",
+"s": "#006BB6"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FNewYork_Knicks_Logos%2FPrimary%2520Icon%2FNYKnicks_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FNewYork_Knicks_Logos%2FPrimary%2520Icon%2FNYKnicks_Primary_Icon.png&w=500&h=500"
+},
+"visitor": {
+"tid": 1610612749,
+"re": "21-9",
+"ta": "MIL",
+"tn": "Bucks",
+"tc": "Milwaukee",
+"s": "",
+"color": {
+"p": "#00471b",
+"s": "#00471b"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FMilwaukee_Bucks_Logos%2FPrimary%2520Icon%2FMBucks_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FMilwaukee_Bucks_Logos%2FPrimary%2520Icon%2FMBucks_Primary_Icon.png&w=500&h=500"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "ESPN",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ESPN_white_v1.png&w=500&h=500",
+"image_1": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ESPN_red_v1.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2018-12-25T12:00:00",
+"utcdatetime": "2018-12-25T12:00:00",
+"quarter": 0
+},
+{
+"gid": "0021800498",
+"home": {
+"tid": 1610612745,
+"re": "16-14",
+"ta": "HOU",
+"tn": "Rockets",
+"tc": "Houston",
+"s": "",
+"color": {
+"p": "#CE1141",
+"s": "#CE1141"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FHouston_Rockets_logos%2FPrimary%2520Icon%2FHRockets_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FHouston_Rockets_logos%2FSecondary%2520Logo%2FHRockets_Secondary_Logo.png&w=500&h=500"
+},
+"visitor": {
+"tid": 1610612760,
+"re": "20-10",
+"ta": "OKC",
+"tn": "Thunder",
+"tc": "Oklahoma City",
+"s": "",
+"color": {
+"p": "#007AC1",
+"s": "#007AC1"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FOklahoma_City_Thunder_Logos%2FPrimary%2520Icon%2FOCThunder_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FOklahoma_City_Thunder_Logos%2FPrimary%2520Icon%2FOCThunder_Primary_Icon.png&w=500&h=500"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "ABC",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500",
+"image_1": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2018-12-25T15:00:00",
+"utcdatetime": "2018-12-25T15:00:00",
+"quarter": 0
+},
+{
+"gid": "0021800499",
+"home": {
+"tid": 1610612738,
+"re": "18-12",
+"ta": "BOS",
+"tn": "Celtics",
+"tc": "Boston",
+"s": "",
+"color": {
+"p": "#008348",
+"s": "#bb9753"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FBoston_Celtics_Logos%2FPrimary%2520Icon%2FBCeltics_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FBoston_Celtics_Logos%2FPrimary%2520Icon%2FBCeltics_Primary_Icon.png&w=500&h=500"
+},
+"visitor": {
+"tid": 1610612755,
+"re": "21-12",
+"ta": "PHI",
+"tn": "76ers",
+"tc": "Philadelphia",
+"s": "",
+"color": {
+"p": "#006bb6",
+"s": "#006BB6"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FPhiladelphia_76ers_Logos%2FPrimary%2520Icon%2FP76ers_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FPhiladelphia_76ers_Logos%2FSecondary%2520Logo%2FP76ers_Secondary_Logo.png&w=500&h=500"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "ABC",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500",
+"image_1": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2018-12-25T17:30:00",
+"utcdatetime": "2018-12-25T17:30:00",
+"quarter": 0
+},
+{
+"gid": "0021800500",
+"home": {
+"tid": 1610612744,
+"re": "21-11",
+"ta": "GSW",
+"tn": "Warriors",
+"tc": "Golden State",
+"s": "",
+"color": {
+"p": "#006BB6",
+"s": "#006BB6"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FGolden_State_Warriors_logos%2FPrimary%2520Icon%2FGSWarriors_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FGolden_State_Warriors_logos%2FPrimary%2520Icon%2FGSWarriors_Primary_Icon.png&w=500&h=500"
+},
+"visitor": {
+"tid": 1610612747,
+"re": "18-13",
+"ta": "LAL",
+"tn": "Lakers",
+"tc": "Los Angeles",
+"s": "",
+"color": {
+"p": "#FDB927",
+"s": "#FDB927"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FLosAngeles_Lakers_logos%2FPrimary%2520Icon%2FLALakers_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FLosAngeles_Lakers_logos%2FPrimary%2520Icon%2FLALakers_Icon.png&w=500&h=500"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "ABC ",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500",
+"image_1": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ABC_v2.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2018-12-25T20:00:00",
+"utcdatetime": "2018-12-25T20:00:00",
+"quarter": 0
+},
+{
+"gid": "0021800501",
+"home": {
+"tid": 1610612762,
+"re": "15-17",
+"ta": "UTA",
+"tn": "Jazz",
+"tc": "Utah",
+"s": "",
+"color": {
+"p": "#f9a01b",
+"s": "#00471B"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FUtah_Jazz_logos%2FPrimary%2520Icon%2FUJazz_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FUtah_Jazz_logos%2FPrimary%2520Icon%2FUJazz_Primary_Icon.png&w=500&h=500"
+},
+"visitor": {
+"tid": 1610612757,
+"re": "18-13",
+"ta": "POR",
+"tn": "Trail Blazers",
+"tc": "Portland",
+"s": "",
+"color": {
+"p": "#E03A3E",
+"s": "#E03A3E"
+},
+"image": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FPortland_TrailBlazers_Logos%2FPrimary%2520Icon%2FPTrailBlazers_Primary_Icon.png&w=500&h=500",
+"image_alt": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https%3A%2F%2Fcdn.flashtalking.com%2Ffeeds%2Fnba%2FFBI-2728%2Fvar%2Fimages%2FTeam%2520Logos%2FPortland_TrailBlazers_Logos%2FPrimary%2520Icon%2FPTrailBlazers_Primary_Icon.png&w=500&h=500"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "ESPN",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ESPN_white_v1.png&w=500&h=500",
+"image_1": "https://web.archive.org/web/20181220164233/https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/ESPN_red_v1.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2018-12-25T22:30:00",
+"utcdatetime": "2018-12-25T22:30:00",
+"quarter": 0
+}
+]
+}
