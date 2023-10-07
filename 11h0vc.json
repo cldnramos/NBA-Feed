@@ -1,0 +1,138 @@
+{
+"code": 200,
+"message": "Success",
+"games": [
+{
+"gid": "0021801111",
+"home": {
+"tid": 1610612749,
+"re": "53-19",
+"ta": "POR",
+"tn": "Trail Blazers",
+"tc": "Portland",
+"s": "",
+"color": {
+"p": "#00471b",
+"s": "#00471b"
+},
+"image": "https://lh3.googleusercontent.com/-Y3ExKviHDtI/XKOwDxJbq1I/AAAAAAAAEC0/C5A3-JgEBFkJUzn76bKqytatEc_K2NVgwCK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-Y3ExKviHDtI/XKOwDxJbq1I/AAAAAAAAEC0/C5A3-JgEBFkJUzn76bKqytatEc_K2NVgwCK8BGAs/s0/2019-04-02.png"
+},
+"visitor": {
+"tid": 1610612745,
+"re": "45-27",
+"ta": "HOU",
+"tn": "Rockets",
+"tc": "Houston",
+"s": "",
+"color": {
+"p": "#CE1141",
+"s": "#CE1141"
+},
+"image": "https://lh3.googleusercontent.com/-2_CbT-baq_M/XKOv-1xpd9I/AAAAAAAAECk/EhP68DGoJwo5id_8Ht_PqOnXLupD7rubACK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-2_CbT-baq_M/XKOv-1xpd9I/AAAAAAAAECk/EhP68DGoJwo5id_8Ht_PqOnXLupD7rubACK8BGAs/s0/2019-04-02.png"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "TNT",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_white.png&w=500&h=500",
+"image_1": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_black.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2019-03-26T20:00:00",
+"utcdatetime": "2019-03-26T20:00:00",
+"quarter": 0
+},
+{
+"gid": "0021801116",
+"home": {
+"tid": 1610612747,
+"re": "31-40",
+"ta": "PHI",
+"tn": "76ers",
+"tc": "Philadelphia",
+"s": "",
+"color": {
+"p": "#FDB927",
+"s": "#FDB927"
+},
+"image": "https://lh3.googleusercontent.com/-ZJ8oAc1sfYc/XKOwCpnFs1I/AAAAAAAAECw/UkWI3MaGeysOw16qdTbEh6x3yk2oUJu9QCK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-ZJ8oAc1sfYc/XKOwCpnFs1I/AAAAAAAAECw/UkWI3MaGeysOw16qdTbEh6x3yk2oUJu9QCK8BGAs/s0/2019-04-02.png"
+},
+"visitor": {
+"tid": 1610612764,
+"re": "30-42",
+"ta": "BOS",
+"tn": "Celtics",
+"tc": "Boston",
+"s": "",
+"color": {
+"p": "#002b5c",
+"s": "#E31837"
+},
+"image": "https://lh3.googleusercontent.com/-f62ELahJSEw/XKOv7WunVtI/AAAAAAAAECY/-DZrgD6V8y8YQJX2ThBuLMCx687G3t8iACK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-f62ELahJSEw/XKOv7WunVtI/AAAAAAAAECY/-DZrgD6V8y8YQJX2ThBuLMCx687G3t8iACK8BGAs/s0/2019-04-02.png"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "TNT",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_white.png&w=500&h=500",
+"image_1": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_black.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2019-03-26T22:30:00",
+"utcdatetime": "2019-03-26T22:30:00",
+"quarter": 0
+},
+{
+"gid": "0021801116",
+"home": {
+"tid": 1610612747,
+"re": "31-40",
+"ta": "OKC",
+"tn": "Thunders",
+"tc": "Oklahoma",
+"s": "",
+"color": {
+"p": "#FDB927",
+"s": "#FDB927"
+},
+"image": "https://lh3.googleusercontent.com/-M5YobBhZUHA/XKOwAQ8EQfI/AAAAAAAAECo/-2ULgOhKA4MKIDwp-gGHQIaFUAZ3P23NgCK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-M5YobBhZUHA/XKOwAQ8EQfI/AAAAAAAAECo/-2ULgOhKA4MKIDwp-gGHQIaFUAZ3P23NgCK8BGAs/s0/2019-04-02.png"
+},
+"visitor": {
+"tid": 1610612764,
+"re": "30-42",
+"ta": "IND",
+"tn": "Pacers",
+"tc": "Indiana",
+"s": "",
+"color": {
+"p": "#002b5c",
+"s": "#E31837"
+},
+"image": "https://lh3.googleusercontent.com/-KXmEbvyh-3s/XKOwBNehMwI/AAAAAAAAECs/3QWuOTaj9c0QT-T5Nu4bc6iflfb0AWZ5ACK8BGAs/s0/2019-04-02.png",
+"image_alt": "https://lh3.googleusercontent.com/-KXmEbvyh-3s/XKOwBNehMwI/AAAAAAAAECs/3QWuOTaj9c0QT-T5Nu4bc6iflfb0AWZ5ACK8BGAs/s0/2019-04-02.png"
+},
+"broadcaster": {
+"seq": 1,
+"disp": "TNT",
+"scope": "natl",
+"type": "tv",
+"lan": "English",
+"image_0": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_white.png&w=500&h=500",
+"image_1": "https://imgcf.flashtalking.com/temp/get.php?url=https://cdn.flashtalking.com/feeds/nba/FBI-2728/var/images/Broadcast%20Logos/TNT_black.png&w=500&h=500"
+},
+"estdayofweek": "Tuesday",
+"estdatetime": "2019-03-26T22:30:00",
+"utcdatetime": "2019-03-26T22:30:00",
+"quarter": 0
+}
+]
+}
